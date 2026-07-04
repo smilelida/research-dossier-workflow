@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Dossier Workflow"
+  short_description: "Build sourced dossiers and report drafts"
+  default_prompt: "Use $research-dossier-workflow to turn this topic into a source-backed dossier and research report draft."
